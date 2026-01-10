@@ -1,0 +1,1 @@
+0 * * * * python /app/weather_pipeline.py >> /var/log/weather.log 2>&1
